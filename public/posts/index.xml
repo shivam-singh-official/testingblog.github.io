@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Shivam Singh Offsec</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Shivam Singh Offsec</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 10 Sep 2023 00:00:27 &#43;0530</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Sun, 10 Sep 2023 00:00:27 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
